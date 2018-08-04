@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Design Bottom NavigationBar Application</string>
+
+    <string name="orders">Orders</string>
+
+    <string name="asps">ASPS</string>
+    <string name="schedule">Schedule</string>
+
+    <string name="deliveries">Deliveries</string>
+    <string name="items">Items</string>
+    <string name="account">Account</string>
+</resources>
